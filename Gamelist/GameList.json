@@ -1,6 +1,8 @@
 {
 
-    "5827078246": {"Name": "Coins Hero Simulator", "Scripts": "coinsherosim.lua"}
+    "5827078246": {"Name": "Coins Hero Simulator", "Scripts": "coinsherosim.lua"},
+     "2686500207": {"Name": "A Bizarre Day", "Scripts": "abd.lua"}
+
 
 
 }
